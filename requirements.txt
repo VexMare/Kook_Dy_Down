@@ -1,0 +1,29 @@
+# Kook机器人SDK
+khl.py==0.3.17
+
+# HTTP请求处理
+requests==2.31.0
+
+# 环境变量管理
+python-dotenv==1.0.0
+
+# 音频处理
+pydub==0.25.1
+
+# 异步处理
+aiohttp==3.8.5
+
+# 日志处理
+loguru==0.7.0
+
+# 配置验证
+pydantic==2.4.2
+
+# Web框架
+Flask==2.3.3
+
+# 其他工具
+urllib3==2.0.4
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4

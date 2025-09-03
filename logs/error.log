@@ -1,0 +1,150 @@
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:06:37 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:12:01 | ERROR    | src.utils.link_parser:_extract_from_short_url:80 | 处理短链接时出错: No connection adapters were found for '[https://v.douyin.com/3PjLGvBYLUw/](https://v.douyin.com/3PjLGvBYLUw/)'
+2025-09-03 04:12:01 | ERROR    | src.api.kook_api:send_error_message:297 | 发送错误消息失败: type object 'Element' has no attribute 'Types'
+2025-09-03 04:12:09 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:12:17 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:12:17 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:27 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:13:53 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:14:19 | ERROR    | src.bot.main:shutdown:555 | 关闭机器人时出错: 'Bot' object has no attribute 'close'
+2025-09-03 04:19:08 | ERROR    | src.api.douyin_api:_extract_video_id_from_short_url:70 | 处理短链接时出错: No connection adapters were found for '[https://v.douyin.com/3PjLGvBYLUw/](https://v.douyin.com/3PjLGvBYLUw/)'
+2025-09-03 04:19:08 | ERROR    | src.api.douyin_api:get_video_info:79 | 无法解析视频ID: [https://v.douyin.com/3PjLGvBYLUw/](https://v.douyin.com/3PjLGvBYLUw/)
+2025-09-03 04:20:26 | ERROR    | src.api.douyin_api:get_video_info:109 | 请求抖音API失败: 404 Client Error: Not Found for url: https://dy.chixiaotao.cn/api/douyin/video?url=%5Bhttps%3A%2F%2Fv.douyin.com%2F3PjLGvBYLUw%2F%5D%28https%3A%2F%2Fv.douyin.com%2F3PjLGvBYLUw%2F%29&video_id=7545034932432506146
+2025-09-03 04:21:37 | ERROR    | src.api.kook_api:send_video_card:35 | 发送视频卡片失败: type object 'Element' has no attribute 'Theme'
+2025-09-03 04:23:31 | ERROR    | src.api.kook_api:send_video_card:35 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: 格式错误:[{"type":"button","value":"play_7545034932432506146","click":"return-val","text":"\u25b6\ufe0f \u64ad\u653e","theme":"success"},{"type":"button","value":"add_7545034932432506146","click":"return-val","text":"\u2795 \u6dfb\u52a0\u5230\u961f\u5217","theme":"primary"}]
+2025-09-03 04:26:09 | ERROR    | src.api.kook_api:send_video_card:35 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: 格式错误:[{"type":"button","value":"play_7545034932432506146","click":"return-val","text":"\u64ad\u653e","theme":"success"},{"type":"button","value":"add_7545034932432506146","click":"return-val","text":"\u6dfb\u52a0\u5230\u961f\u5217","theme":"primary"}]
+2025-09-03 04:27:24 | ERROR    | src.api.kook_api:send_video_card:35 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: 卡片消息json没有通过验证或者不存在
+2025-09-03 04:29:10 | ERROR    | src.api.kook_api:send_video_card:35 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: 卡片消息json没有通过验证或者不存在
+2025-09-03 04:47:02 | ERROR    | src.api.douyin_api:get_video_info:113 | 获取视频信息时出错: 400 Client Error: Bad Request for url: https://dy.gglz.cn/api/hybrid/video_data?url=%5Bhttps%3A%2F%2Fv.douyin.com%2F3PjLGvBYLUw%2F%5D%28https%3A%2F%2Fv.douyin.com%2F3PjLGvBYLUw%2F%29
+2025-09-03 04:48:16 | ERROR    | src.api.kook_api:send_video_card:35 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: 卡片消息json没有通过验证或者不存在
+2025-09-03 04:49:29 | ERROR    | src.api.kook_api:send_video_card:35 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: 卡片消息json没有通过验证或者不存在
+2025-09-03 04:52:31 | ERROR    | src.bot.main:_start_playback:566 | 语音播放失败: 'Guild' object has no attribute 'fetch_channel'
+2025-09-03 04:52:31 | ERROR    | src.bot.main:_start_playback:574 | 开始播放时出错: local variable 'channel' referenced before assignment
+2025-09-03 04:58:27 | ERROR    | src.bot.main:_start_playback:581 | 语音播放失败: 'Guild' object has no attribute 'fetch_channel'
+2025-09-03 04:58:27 | ERROR    | src.bot.main:_start_playback:589 | 开始播放时出错: local variable 'channel' referenced before assignment
+2025-09-03 05:06:05 | ERROR    | src.bot.main:_send_detailed_video_info:550 | 发送详细视频信息失败: 'VideoInfo' object has no attribute 'original_url'
+2025-09-03 05:21:47 | ERROR    | src.bot.main:_download_and_upload_video:806 | 下载和上传视频失败: No module named 'aiofiles'
+2025-09-03 05:21:47 | ERROR    | src.bot.main:_handle_dy_command:426 | 处理/dy命令时出错: 'dict' object has no attribute 'edit'
+2025-09-03 05:25:40 | ERROR    | src.bot.main:_send_video_card_with_upload:903 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: khl_markdown_ex() expects parameter 1 to be string, array given
+2025-09-03 05:26:35 | ERROR    | src.bot.main:_send_video_card_with_upload:891 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: khl_markdown_ex() expects parameter 1 to be string, array given
+2025-09-03 05:32:15 | ERROR    | src.bot.main:_send_video_card_with_upload:914 | 发送视频卡片失败: Requesting 'POST message/create' failed with 40000: khl_markdown_ex() expects parameter 1 to be string, array given
+2025-09-03 06:28:40 | ERROR    | src.api.douyin_api:get_video_info:124 | 获取视频信息时出错: HTTPSConnectionPool(host='dy.gglz.cn', port=443): Read timed out. (read timeout=30)
+2025-09-03 06:45:36 | ERROR    | src.utils.link_parser:_extract_from_short_url:89 | 处理短链接时出错: local variable 're' referenced before assignment
+2025-09-03 06:45:45 | ERROR    | src.utils.link_parser:_extract_from_short_url:89 | 处理短链接时出错: local variable 're' referenced before assignment
+2025-09-03 06:46:41 | ERROR    | src.bot.main:_download_and_upload_image:1043 | 图片下载失败: HTTP 403
+2025-09-03 06:47:29 | ERROR    | src.bot.main:_upload_to_kook:924 | Kook上传失败: HTTP 413
+2025-09-03 06:47:34 | ERROR    | src.bot.main:_download_and_upload_image:1043 | 图片下载失败: HTTP 403
+2025-09-03 06:47:51 | ERROR    | src.bot.main:_upload_to_kook:924 | Kook上传失败: HTTP 413
+2025-09-03 06:48:19 | ERROR    | src.bot.main:_download_and_upload_image:1060 | 图片下载失败: HTTP 403
+2025-09-03 06:48:19 | ERROR    | src.bot.main:_download_and_upload_image:1061 | 响应头: {'Server': 'Tengine', 'Date': 'Tue, 02 Sep 2025 22:48:19 GMT', 'Content-Type': 'text/html', 'Content-Length': '238', 'Connection': 'keep-alive', 'es-exit': 'x_signature auth failed', 'x-tt-trace-tag': 'id=03;cdn-cache=miss;type=static', 'x-response-cinfo': '124.163.103.75', 'Access-Control-Expose-Headers': 'X-Imagex-Extra,X-Response-Cache', 'Access-Control-Allow-Origin': '*', 'Via': 'cache1.cn7476[,403666]', 'Timing-Allow-Origin': '*', 'EagleId': '7ca3d39517568532990572047e'}
+2025-09-03 06:48:19 | ERROR    | src.bot.main:_download_and_upload_video:884 | 视频下载失败: HTTP 206
+2025-09-03 06:48:19 | ERROR    | src.bot.main:_download_and_upload_video:885 | 响应头: {'Server': 'Tengine', 'Content-Type': 'video/mp4', 'Content-Length': '143794244', 'Connection': 'keep-alive', 'Date': 'Mon, 04 Aug 2025 13:36:14 GMT', 'x-oss-request-id': '6890B74EFCEA2C3031294EA1', 'x-oss-cdn-auth': 'success', 'Accept-Ranges': 'bytes', 'x-oss-object-type': 'Normal', 'x-oss-storage-class': 'Standard', 'Cache-Control': 'max-age=2592000', 'x-oss-expiration': 'expiry-date="Sun, 10 Aug 2025 00:00:00 GMT", rule-id="tos-cn-ve-"', 'Etag': '"F93E213BBFAE7FF4E827BA79312D110F"', 'Last-Modified': 'Sat, 28 Jun 2025 03:10:42 GMT', 'x-oss-hash-crc64ecma': '6829682300103391266', 'x-oss-server-time': '8', 'Via': 'cache6.l2ea120-8[0,0,206-0,H], cache63.l2ea120-8[0,0], cache13.cn6552[0,0,206-0,H], cache6.cn6552[5,0]', 'Age': '2538725', 'Ali-Swift-Global-Savetime': '1754314574', 'X-Cache': 'HIT TCP_MEM_HIT dirn:-2:-2 mlen:0', 'Content-Range': 'bytes 0-143794243/143794244', 'X-Swift-SaveTime': 'Tue, 02 Sep 2025 22:42:29 GMT', 'X-Swift-CacheTime': '53625', 'Access-Control-Max-Age': '3600', 'x-tt-trace-tag': 'id=03;cdn-cache=hit;type=static', 'Access-Control-Allow-Credentials': 'true', 'Access-Control-Allow-Headers': 'range', 'Access-Control-Allow-Origin': '*', 'x-response-cinfo': '110.181.97.69', 'x-response-cache': 'edge_hit', 'Access-Control-Expose-Headers': 'Content-Length,Content-Range,content-type,expires,last-modified,via,X-Cache', 'Access-Control-Allow-Methods': 'GET,HEAD,POST,OPTIONS', 'server-timing': 'cdn-cache;desc=HIT,edge;dur=5', 'Timing-Allow-Origin': '*', 'EagleId': '76fdae1a17568532991166712e'}
+2025-09-03 06:48:23 | ERROR    | src.bot.main:_download_and_upload_image:1060 | 图片下载失败: HTTP 403
+2025-09-03 06:48:23 | ERROR    | src.bot.main:_download_and_upload_image:1061 | 响应头: {'Server': 'Tengine', 'Date': 'Tue, 02 Sep 2025 22:48:23 GMT', 'Content-Type': 'text/html', 'Content-Length': '238', 'Connection': 'keep-alive', 'es-exit': 'x_signature auth failed', 'x-tt-trace-tag': 'id=03;cdn-cache=miss;type=static', 'x-response-cinfo': '124.163.103.81', 'Access-Control-Expose-Headers': 'X-Imagex-Extra,X-Response-Cache', 'Access-Control-Allow-Origin': '*', 'Via': 'cache12.cn7476[,403666]', 'Timing-Allow-Origin': '*', 'EagleId': '7ca3d3a017568533032587431e'}
+2025-09-03 06:48:23 | ERROR    | src.bot.main:_download_and_upload_video:884 | 视频下载失败: HTTP 206
+2025-09-03 06:48:23 | ERROR    | src.bot.main:_download_and_upload_video:885 | 响应头: {'Server': 'Tengine', 'Content-Type': 'video/mp4', 'Content-Length': '143794244', 'Connection': 'keep-alive', 'Date': 'Mon, 04 Aug 2025 13:36:14 GMT', 'x-oss-request-id': '6890B74EFCEA2C3031294EA1', 'x-oss-cdn-auth': 'success', 'Accept-Ranges': 'bytes', 'x-oss-object-type': 'Normal', 'x-oss-storage-class': 'Standard', 'Cache-Control': 'max-age=2592000', 'x-oss-expiration': 'expiry-date="Sun, 10 Aug 2025 00:00:00 GMT", rule-id="tos-cn-ve-"', 'Etag': '"F93E213BBFAE7FF4E827BA79312D110F"', 'Last-Modified': 'Sat, 28 Jun 2025 03:10:42 GMT', 'x-oss-hash-crc64ecma': '6829682300103391266', 'x-oss-server-time': '8', 'Via': 'cache6.l2ea120-8[0,0,206-0,H], cache63.l2ea120-8[0,0], cache13.cn6552[0,0,206-0,H], cache17.cn6552[4,0]', 'Age': '2538729', 'Ali-Swift-Global-Savetime': '1754314574', 'X-Cache': 'HIT TCP_MEM_HIT dirn:-2:-2 mlen:0', 'Content-Range': 'bytes 0-143794243/143794244', 'X-Swift-SaveTime': 'Tue, 02 Sep 2025 22:42:29 GMT', 'X-Swift-CacheTime': '53625', 'Access-Control-Max-Age': '3600', 'x-tt-trace-tag': 'id=03;cdn-cache=hit;type=static', 'Access-Control-Allow-Credentials': 'true', 'Access-Control-Allow-Headers': 'range', 'Access-Control-Allow-Origin': '*', 'x-response-cinfo': '110.181.97.69', 'x-response-cache': 'edge_hit', 'Access-Control-Expose-Headers': 'Content-Length,Content-Range,content-type,expires,last-modified,via,X-Cache', 'Access-Control-Allow-Methods': 'GET,HEAD,POST,OPTIONS', 'server-timing': 'cdn-cache;desc=HIT,edge;dur=4', 'Timing-Allow-Origin': '*', 'EagleId': '76fdae2517568533033241433e'}
+2025-09-03 06:49:27 | ERROR    | src.bot.main:_upload_to_kook:932 | Kook上传失败: HTTP 413
+2025-09-03 06:49:47 | ERROR    | src.bot.main:_upload_to_kook:932 | Kook上传失败: HTTP 413
+2025-09-03 06:50:35 | ERROR    | src.bot.main:_upload_to_kook:942 | Kook上传失败: HTTP 413
+2025-09-03 06:50:54 | ERROR    | src.bot.main:_upload_to_kook:942 | Kook上传失败: HTTP 413
+2025-09-03 07:05:57 | ERROR    | src.bot.main:on_message:248 | 分析消息时出错: 'PublicMessage' object has no attribute 'timestamp'
+2025-09-03 07:05:57 | ERROR    | src.bot.main:on_message:250 | 错误详情: Traceback (most recent call last):
+  File "/www/wwwroot/Kook_Dy_Down/src/bot/main.py", line 168, in on_message
+    message_id = f"{msg.id}_{msg.ctx.channel.id}_{msg.author.id}_{msg.timestamp}"
+AttributeError: 'PublicMessage' object has no attribute 'timestamp'
+
+2025-09-03 07:31:04 | ERROR    | src.bot.main:_upload_image_to_kook:1106 | Kook图片上传失败: Name只能包含至多255个字符。
+2025-09-03 07:31:08 | ERROR    | src.bot.main:_upload_to_kook:905 | Kook上传失败: Name只能包含至多255个字符。
+2025-09-03 07:35:12 | ERROR    | src.bot.main:_upload_image_to_kook:1106 | Kook图片上传失败: Name只能包含至多255个字符。
+2025-09-03 07:35:21 | ERROR    | src.bot.main:_upload_to_kook:905 | Kook上传失败: Name只能包含至多255个字符。
+2025-09-03 07:35:41 | ERROR    | src.bot.main:_upload_to_kook:905 | Kook上传失败: Name只能包含至多255个字符。
+2025-09-03 07:35:57 | ERROR    | src.bot.main:_upload_to_kook:905 | Kook上传失败: Name只能包含至多255个字符。
+2025-09-03 07:37:37 | ERROR    | src.bot.main:_upload_to_kook:907 | Kook上传失败: Name只能包含至多255个字符。
+2025-09-03 07:39:51 | ERROR    | src.bot.main:_upload_to_kook:909 | Kook上传失败: Name只能包含至多255个字符。
+2025-09-03 07:46:14 | ERROR    | src.bot.main:_handle_dy_command:561 | 处理/dy命令时出错: 'DouyinBot' object has no attribute '_download_and_upload_image_with_fallback'
+2025-09-03 07:46:27 | ERROR    | src.bot.main:_handle_dy_command:561 | 处理/dy命令时出错: 'DouyinBot' object has no attribute '_download_and_upload_image_with_fallback'
+2025-09-03 07:46:41 | ERROR    | src.bot.main:_download_and_upload_image_with_fallback:1149 | 所有图片链接都下载失败
+2025-09-03 07:47:44 | ERROR    | src.bot.main:_upload_to_kook:972 | Kook上传失败: HTTP 413 - 文件过大
+2025-09-03 07:51:10 | ERROR    | src.api.douyin_api:get_video_info:96 | 无法解析视频ID: https://v.douyin.com/_tNRIScpmpY/
+2025-09-03 07:51:49 | ERROR    | src.bot.main:_download_and_upload_image_with_fallback:1149 | 所有图片链接都下载失败
