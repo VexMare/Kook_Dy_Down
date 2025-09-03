@@ -83,7 +83,7 @@ python3 run.py
    sudo apt install python3 python3-pip git -y
    
    # 克隆项目
-   git clone https://github.com/VexMare/Kook_Dy_Down
+   git clone [https://github.com/VexMare/Kook_Dy_Down](https://github.com/VexMare/Kook_Dy_Down)
    cd Kook_Dy_Down
    
    # 安装依赖
